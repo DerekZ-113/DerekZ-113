@@ -13,10 +13,10 @@ I started at Zoox as a Software Testing Specialist running overnight operations 
 
 ### Tech
 
-**Languages:** Python, TypeScript, JavaScript, Java  
-**ML/Data:** XGBoost, PyTorch, scikit-learn, Pandas, TimescaleDB, PostgreSQL  
-**Web:** React, Node.js, Express, MongoDB  
-**Infrastructure:** Docker, Git
+**Languages:** Python, JavaScript/TypeScript, SQL, Swift, Java, HTML/CSS  
+**ML/Data:** XGBoost, Feature Engineering, PyTorch, scikit-learn, Pandas, NumPy   
+**Web:** React, Node.js, Express.js, MongoDB, Redux Toolkit, REST APIs  
+**Infrastructure:** Docker, Git, TimescaleDB, PostgreSQL, Firebase
 
 ### Links
 

@@ -7,7 +7,7 @@ MS Computer Science @ Northeastern (April 2026)
 
 ## Featured Projects
 
-[**Sentinel**](https://github.com/DerekZ-113/Sentinel) · [Live Demo](YOUR_SENTINEL_VERCEL_URL) — Context-aware alert filtering for AV fleets. Built an XGBoost classifier that reduces false positive alerts by 64%, trained on 8M+ telemetry records. The interaction features that made it work came from watching thousands of alerts and learning which ones actually needed attention. FastAPI inference service, React/TypeScript monitoring dashboard with 6 panels, 301 tests with CI/CD, containerized with Docker Compose.
+[**Sentinel**](https://github.com/DerekZ-113/Sentinel) · [Live Demo](https://sentinel-theta-three.vercel.app) — Context-aware alert filtering for AV fleets. Built an XGBoost classifier that reduces false positive alerts by 64%, trained on 8M+ telemetry records. The interaction features that made it work came from watching thousands of alerts and learning which ones actually needed attention. FastAPI inference service, React/TypeScript monitoring dashboard with 6 panels, 301 tests with CI/CD, containerized with Docker Compose.
 
 [**PatternBank**](https://github.com/DerekZ-113/pattern-bank) · [Web App](https://patternbank.vercel.app) · [App Store](https://apps.apple.com/app/patternbank/id6759760762) — Cross-platform spaced repetition app for LeetCode interview prep. 1,000+ organic users, 100+ DAU in first week. SM-2 scheduling, pattern confidence heatmap, localStorage-first architecture with Supabase cloud sync. Web + React Native mobile.
 

@@ -1,7 +1,7 @@
 # Hey, I'm Derek!
 
 MS Computer Science @ Northeastern (April 2026)  
-4 years at Zoox working with autonomous vehicle fleets
+3+ years at Zoox working with autonomous vehicle fleets
 
 ---
 
@@ -15,7 +15,7 @@ MS Computer Science @ Northeastern (April 2026)
 
 ## Background
 
-I started at Zoox as a Software Testing Specialist running overnight operations on a 500-vehicle autonomous fleet. After four years of watching operators get buried in false alerts, I built Sentinel to fix it.
+I started at Zoox as a Software Testing Specialist running overnight operations on a 500-vehicle autonomous fleet. After years of watching operators get buried in false alerts, I built Sentinel to fix it.
 
 After solving 347 LeetCode problems and forgetting most of them, I built PatternBank to fix that too. Now I'm finishing my MS and looking for software engineering roles.
 
